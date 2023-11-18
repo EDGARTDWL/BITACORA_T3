@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue; /* Cambia el color de fondo de la ventana */
+}
+
+.image-container {
+    border: 2px solid darkblue; /* Agrega un borde de 2 píxeles sólidos en color oscuro alrededor de las imágenes */
+    margin: 10px; /* Agrega un margen de 10 píxeles alrededor de las imágenes */
+    padding: 10px; /* Agrega un relleno de 10 píxeles dentro de las imágenes */
+}
+
+img {
+    max-width: 100%; /* Hace que las imágenes no se salgan de sus contenedores */
+    height: auto; /* Mantiene la proporción de aspecto de las imágenes */
+}
